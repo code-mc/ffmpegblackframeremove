@@ -25,6 +25,8 @@ There's a couple parameters you can tweak. These are located inside the "detect.
 
 If you find bugs you can notify me by opening an issue. Already solved the bug? Great! Make a pull request and I'll merge it.
 
-#License
+----------------------------------------------------------------------------------------------
+
+# License
 
 Released under the [Apache 2.0 License](https://github.com/code-mc/ffmpegblackframeremove/blob/master/license.md)
