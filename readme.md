@@ -12,6 +12,15 @@ Inspired by the superuser post [here](http://superuser.com/questions/692489/auto
 5. The stripped files will be inside the video folder and have "RED" appended to their file name.
 
 
+### Params
+
+There's a couple parameters you can tweak. These are located inside the "detect.py" file itself. 
+
+`dur` Set the minimum detected black duration (in seconds)
+`pic` Set the threshold for considering a picture as "black" (in percent)
+`pix` Set the threshold for considering a pixel "black" (in luminance)
+
+
 ### Contributing
 
 If you find bugs you can notify me by opening an issue. Already solved the bug? Great! Make a pull request and I'll merge it.
